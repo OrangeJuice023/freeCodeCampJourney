@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "Maragsa";
+  src: url('path/to/maragsa-regular.ttf') format('truetype'); /* Replace 'path/to/maragsa-regular.ttf' with the correct path to the font file. */
+}
+
+body {
+  text-align: center;
+  background-color: #f0f0f0;
+  font-family: "Maragsa", Arial, sans-serif;
+}
+
+h1 {
+  font-family: "Maragsa", serif;
+  color: #114B5F;
+}
+
+#chart {
+  margin: 50px auto;
+}
+
+.bar {
+  fill: #4281A4;
+  opacity: 0.8;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.bar:hover {
+  opacity: 1;
+}
+
+#tooltip {
+  position: absolute;
+  padding: 10px;
+  background: #333;
+  color: #fff;
+  pointer-events: none;
+  opacity: 0.9;
+  font-size: 12px;
+}
