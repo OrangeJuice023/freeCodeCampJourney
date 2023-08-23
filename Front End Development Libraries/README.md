@@ -10,7 +10,6 @@ Hey there, fellow aspiring programmer! Welcome to my exciting journey through th
 - [What You Will Learn](#what-you-will-learn)
 - [Curriculum](#curriculum)
 - [Getting Started](#getting-started)
-- [Additional Resources](#additional-resources)
 
 ## Introduction
 
