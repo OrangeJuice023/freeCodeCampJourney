@@ -33,4 +33,4 @@ Feel free to share your journey with the FreeCodeCamp community and enjoy the le
 
 Happy coding! 💻🚀
 
-\[YOrangeJuice023\]
+\[OrangeJuice023\]
