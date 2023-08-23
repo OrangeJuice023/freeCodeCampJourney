@@ -1,0 +1,36 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f0f0f0;
+}
+
+.graph {
+  background-color: white;
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.2);
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: black;
+}
+
+.dot {
+  transition: opacity 0.3s;
+}
+
+.dot:hover {
+  opacity: 0.8;
+}
+svg {
+  font-family: 'Baskerville', 'Times New Roman', serif;
+}
+
+.text {
+  font-family: 'Baskerville', 'Times New Roman', serif;
+}
