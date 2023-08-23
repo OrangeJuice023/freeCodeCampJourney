@@ -26,6 +26,10 @@ Happy learning and exploring the fascinating intersection of algebra and Python 
 
 Feel free to share your journey with the FreeCodeCamp community and enjoy the learning process.
 
+## My Certificate
+
+![image](https://github.com/OrangeJuice023/freeCodeCampJourney/assets/87125976/3fbb8962-6f12-450e-888e-95e9283e74be)
+
 
 Happy coding! 💻🚀
 
