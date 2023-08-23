@@ -12,11 +12,9 @@ Throughout this curriculum, I encountered various challenges that pushed me out 
 
 Surprisingly, as I dove deeper into complex concepts, I found the journey to be incredibly enjoyable. Tackling algorithmic problems felt like solving puzzles, and manipulating data structures became an art of its own. The satisfaction of seeing code run smoothly after working through intricate logic was truly fulfilling.
 
-## Success Stories
+## My  Certificate
 
-I'm thrilled to announce that I successfully completed the JavaScript Algorithms and Data Structures curriculum. While not every project turned out as an exact replica of the intended goal, each project showcased my growing understanding of the concepts and skills I've acquired.
-
-As I move forward, I'm excited to apply these newly acquired skills to real-world projects and continue my journey of growth and improvement.
+![image](https://github.com/OrangeJuice023/freeCodeCampJourney/assets/87125976/8089557a-c58b-40ba-a1e9-7503fd7128a2)
 
 Happy coding! 💻🚀
 
