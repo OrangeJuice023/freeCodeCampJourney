@@ -1,0 +1,83 @@
+/* styles.css */
+@font-face {
+  font-family: 'Maragsa';
+  src: url('path/to/your/Maragsa-Regular.ttf') format('truetype');
+  /* You need to replace 'path/to/your/Maragsa-Regular.ttf' with the actual path to your font file. */
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-image: linear-gradient(135deg, #ff6ac1, #70a1ff);
+}
+
+#quote-box {
+  max-width: 600px;
+  width: 450px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-align: center;
+  background-color: #f5f5f5;
+}
+
+#text {
+  font-family: 'Maragsa', sans-serif; /* Apply the custom font */
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+#author {
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+#buttons {
+  display: flex;
+  justify-content: center; /* Center the buttons */
+  gap: 10px;
+}
+
+#buttons a,
+#new-quote {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px; /* Reduce the font size for the New Quote button */
+  width: 60px; /* Set the width to make the Twitter and Tumblr buttons square */
+  height: 60px; /* Keep the height the same for all buttons */
+  border-radius: 5px;
+  text-decoration: none;
+  color: #fff;
+  margin-left: 50px;
+}
+
+/* Set background colors for Twitter and Tumblr buttons */
+#tumblr-button {
+  background-color: #36465d;
+}
+
+#twitter-button {
+  background-color: #1da1f2;
+}
+
+#new-quote {
+  width: 120px; /* Set the width to make the New Quote button rectangular */
+  background-color: #000; /* Black background color */
+  border: none;
+  color: #fff; /* White text color */
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  white-space: nowrap; /* Prevent the text from wrapping to fit inside the button */
+  overflow: hidden; /* Hide any overflow text */
+  text-overflow: ellipsis; /* Add ellipsis (...) for truncated text */
+}
+
+#new-quote:hover {
+  background-color: #333; /* Darker background color on hover */
+}
