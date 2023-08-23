@@ -24,6 +24,10 @@ Throughout this curriculum, I engaged in hands-on coding exercises, real-world p
 
 Completing this curriculum gave me practical machine learning skills, in high demand across industries. With this foundation, I'm better prepared for roles like data scientist, machine learning engineer, and AI developer.
 
+## My Certificate
+
+![Uploading image.png…]()
+
 
 Happy coding! 💻🚀
 
