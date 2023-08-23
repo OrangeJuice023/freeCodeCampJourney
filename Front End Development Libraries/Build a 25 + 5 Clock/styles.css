@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Maragsa&display=swap');
+
+body {
+  background: linear-gradient(135deg, #ce1141, #4a3730); /* Gradient background using Houston Rockets colors */
+  color: #f0a202; /* Yellow color for text */
+  font-family: "Roboto", sans-serif; /* Use Roboto font for the body text */
+  font-size: 30px;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.main-title {
+  font-family: 'Maragsa', cursive; /* Use Maragsa font for the header */
+  font-size: 50px;
+  margin-bottom: 20px;
+  color: #fff; /* White color for the header text */
+}
+
+.length-control {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.length-control .btn-level {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #f0a202; /* Yellow color for text */
+}
+
+.length-control .btn-level button {
+  background: none;
+  outline: none;
+  border: none;
+  color: #f0a202; /* Yellow color for button text */
+  cursor: pointer;
+  font-size: 28px;
+}
+
+.length-control .btn-level button:hover {
+  color: #e76f51; /* Dark orange color on button hover */
+}
+
+.timer {
+  border: 7px solid #f0a202; /* Yellow color for timer border */
+  margin: 20px auto 10px auto;
+  width: 300px;
+  height: 160px;
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.timer .timer-wrapper {
+  width: 190px;
+  height: 110px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #2b2d42; /* Dark blue color for timer background */
+  border-radius: 50%;
+  position: relative;
+}
+
+.timer #time-left {
+  font-family: digital;
+  font-size: 80px;
+  color: #f0a202; /* Yellow color for timer text */
+}
+
+.timer-control {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.timer-control button {
+  background: none;
+  outline: none;
+  border: none;
+  color: #f0a202; /* Yellow color for button text */
+  cursor: pointer;
+  font-size: 24px;
+  padding: 8px 15px;
+  border-radius: 5px;
+}
+
+.timer-control button:hover {
+  background: #f0a202; /* Yellow color on button hover */
+  color: #2b2d42; /* Dark blue color on button hover */
+}
