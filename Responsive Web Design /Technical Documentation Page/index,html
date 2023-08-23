@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Documentation for Work Immersion</title> 
+    <link rel="stylesheet" href="styles.css"/>
+  </head>
+
+  <body>
+    <nav id="navbar">
+      <header>Work Immersion Documentation</header>
+      <ul id="ul-navbar">
+          <li>
+            <a class="nav-link" href="#Work_Immersion">Work Immersion</a>
+          </li>
+
+          <li>
+            <a class="nav-link" href="#Things_to_Take_Note">Things to Take Note</a>
+          </li>
+
+          <li>
+            <a class="nav-link" href="#DepED_Order_30">DepED Order 30</a>
+          </li>
+
+          <li>
+            <a class="nav-link" href="#Definition_of_Terms">Definition of Terms</a>
+          </li>
+
+          <li>
+            <a class="nav-link" href="#Objectives">Objectives</a>
+          </li>
+
+          <li>
+            <a class="nav-link" href="#Principles_and_Policy_Statements">Principles and Policy Statements</a>
+          </li>
+
+          <li>
+            <a class="nav-link" href="#Duties_and_Responsibilities_of_Personnel">Duties and Responsibilities of Personnel</a>
+          </li>
+
+          <li>
+            <a class="nav-link" href="#Work_Ethics">Work Ethics</a>
+          </li>
+
+          <li>
+            <a class="nav-link" href="#Occupational_Safety_Hazard_Standard_for_Public_Sector">Occupational Safety Hazard Standard for Public Sector</a>
+          </li>
+
+          <li>
+            <a class="nav-link" href="#Team_Work">Team Work</a>
+          </li>
+
+          <li>
+            <a class="nav-link" href="#Conflict_Management_Styles">Conflict Management Styles</a>
+          </li>
+
+          <li>
+            <a class="nav-link" href="#Worker_Rights_and_Responsibilities">Worker Rights and Responsibilities</a>
+          </li>
+
+          <li>
+            <a class="nav-link" href="#Reference">Reference</a>
+          </li>
+
+          
+
+      </ul>
+    </nav>
+    <main id="main-doc" >
+      <section class="main-section" id="Work_Immersion"><header>Work Immersion</header>
+      
+      <p>Work immersion refers to a form of experiential learning in which students, typically those in high school or college, are provided with opportunities to engage in real-world work experiences related to their chosen field of study or career interest. The purpose of work immersion is to give students practical exposure to the workplace environment, allowing them to apply their theoretical knowledge to real-world situations and gain hands-on experience.</p>
+      <p>It can take various forms, such as internships, apprenticeships, on-the-job training, or volunteer work. During the immersion period, students are usually placed in a company, organization, or institution where they can work alongside professionals and get a feel for the responsibilities, tasks, and challenges associated with the specific industry or job role.</p>
+
+      <p>Work immersion is often seen as an essential component of a well-rounded education because it offers several benefits, including:</p>
+      
+      <ul>
+        <li>Skill development: Students can acquire and enhance their technical, interpersonal, and problem-solving skills during their time in the workplace.</li>
+        <li>Networking: Immersion experiences allow students to build connections with professionals in their field, potentially leading to future job opportunities.</li>
+        <li>Career exploration: It gives students a chance to explore various career options and make more informed decisions about their future paths.</li>
+        <li>Improved employability: Having work immersion experience on their resume can make students more attractive to employers as it demonstrates real-world readiness and adaptability.</li>
+        <li>Confidence building: The experience of successfully completing work tasks in a professional environment can boost students' self-confidence.</li>
+
+      </ul>
+      </section>  
+
+      <section class="main-section" id="Things_to_Take_Note"><header>Things to Take Note</header>
+      
+      <p>This documentation will inform you of the following basic information about work immersion:</p>
+
+      <ul>
+        <li>Importance of Dep Order 30</li>
+        <li>Terms that should be taken note of for work immersion</li>
+        <li>Objectives of Work Immersion</li>
+        <li>Principles and Policies expected to be observed during work immersion proper</li>
+        <li>Duties and Responsibilities of different entities during work immersion</li>
+        <li>Duties and Responsibilities of different entities during work immersion</li>
+        <li>Introduction to OSH</li>
+        <li>True definition of team work</li>
+        <li>Different conflict management styles</li>
+        <li>Worker Rights and Responsibilities</li>
+
+      </ul>
+      </section>
+
+      <section class="main-section" id="DepED_Order_30"><header>DepED Order 30</header>
+      
+      <p> DepEd Order 30, s. 2017, titled "Policy and Guidelines on Daily Lesson Preparation for the K to 12 Basic Education Program," aims to provide guidelines and standards for teachers in preparing their daily lesson plans for the K to 12 curriculum.</p>
+
+      <p>It refers to a specific order issued by the Department of Education (DepEd) in the Philippines. Please note that the information provided is based on my last update and may not reflect any developments that have occurred after that date.</p>
+
+      <p>The K to 12 Basic Education Program is an educational reform initiative in the Philippines that extends the basic education cycle to twelve years, comprising six years of primary education (Grades 1 to 6), four years of junior high school (Grades 7 to 10), and two years of senior high school (Grades 11 to 12).</p>
+      
+      </section>
+
+      <section class="main-section" id="Definition_of_Terms"><header>Definition of Terms</header>
+      <p> These are the important concepts that you need to take into consideration for work immersion</p>
+
+      <code><b><i>Partner Institutions</i></b> -public or private institutions or organizations that can lend their expertise and resources; and agree with any DepEd or Non-DepEd schools.</code>
+      <p></p>
+      <code><b><i>Memorandum of Agreement</i></b> -legally binding document which states the specific terms and conditions between and among parties entering into a partnership to implement a program, project, or similar undertaking.</code>
+      
+      <p></p>
+      <code><b><i>Partnership</i></b> -refers to the relationship between the partner institution and the school, or any office of Deped (Central Region or Division) that responds to the needs of K to 12 programs in general, and Senior high School, in particular, formalized through a Memorandum of Agreement
+</code>
+
+<p></p>
+      <code><b><i>School Partnership Focal Person</i></b> -a person authorized to seek partnerships between DepEd and Institution (Deped Order 40, s. 2015)
+</code>
+
+    <p></p>
+      <code><b><i>Work Immersion</i></b> -refers to the subject of the Senior High School Curriculum that involves hands-on experience or work simulation in which learners can apply their competencies and acquire knowledge relevant to their track
+</code>
+
+<p></p>
+      <code><b><i>Work Immersion Partner Institution Supervisor</i></b> -serves as the Work Immersion Teacher's counterpart and may represent the partner institution forging partnerships with DepEd schools.
+</code>
+
+    <p></p>
+      <code><b><i>Work Immersion Teacher</i></b> -school personnel who is assigned to supervise the learners at the Work Immersion Venue in coordination with the Work Immersion Partner Institution Supervisor
+</code>
+
+    <p></p>
+      <code><b><i>
+Work Place Immersion Venue</i></b> -a place where work immersion is conducted. It shall conform with the law and the rules and regulations on safety, appropriateness for learning, and availability of facilities and equipment, which the DepEd issues (Do No. 40 s, 2015), Technical Education and Skills Development Authority (TESDA), Department of Labor and Employment (DOLE), Commission on Higher Education (CHED), and other relevant government agencies.
+</code>
+      </section>
+
+      <section class="main-section" id="Objectives"><header>Objectives</header>
+      
+      <p>Work Immersion aims to make learners:</p>
+
+      <ul>
+        <li>Appreciate the importance and application of the principles and theories learned in school</li>
+        <li>Enhance their technical knowledge and skills</li>
+        <li>Enrich their skills in communications and human relations</li>
+        <li>Develop good work habits, attitudes, appreciation, and respect for work</li>
+      </ul>
+      </section>
+
+      <section class="main-section" id="Principles_and_Policy_Statements"><header>Principles and Policy Statements</header>
+      <p>-Work Immersion requires parental consent</p>
+      <p>-Partner Institutions and Work Immersion Venues shall be selected only after thorough study, screening, and preparation to ensure that each venue is safe, secure, and suitable for learning.</p>
+      <p>-Schools may partner with any institution or organization duly registered/recognized by any accrediting government agency. These may include cooperatives, local government units (LGUs), duly registered companies, and non-government organizations.</p>
+      <p>-All Work Immersion agreements at the school level must be covered by a Memorandum of Agreement (MOA) for the security of all parties involved. All MOAs must specify that all parties will conform to these guidelines.</p>
+      <p>-The Memorandum of Agreement must have provisions for the following:</p>
+
+
+      <ul>
+        <li>Creation of a Joint Working Group (JWG), the JWG’s functions and responsibilities, and the responsibilities of each of the partners</li>
+        <li>Access to and use of partner institution’s facilities by learners and teachers</li>
+        <li>Provision of supervisors and mentors from the partner institution</li>
+        <li>Assurance that the workplace is a conducive and safe learning environment</li>
+        <li>Insurance for learners in DepEd schools, charged to MOOE (for private high schools, colleges, and universities, local universities and colleges, state universities and colleges, and technical and vocational schools, the insurance fee paid by the learners during enrollment shall be utilized for work immersion.</li>
+      </ul>
+      </section>
+
+      <section class="main-section" id="Duties_and_Responsibilities_of_Personnel"><header>Duties and Responsibilities of Personnel</header>
+      <p>These personnel shall always exercise due care and diligence in performing their duties. Below are additional duties and responsibilities to DepEd Order No. 40, series of 2015 (Guidelines on K to 12 Partnerships)</p>
+
+      <p><b><i>1. The School Head</b></i><p>She/He shall:</p><ul>
+        <li>Be the authorized person to sign the MOA with Partner Institution on behalf of the school and ensure that all provisions in the MOA are adhered to by both parties</li>
+        <li>Assign a personnel/teacher to the School Partnerships Focal Person if the school offers more than one (1 program)</li>
+        <li>Sign the Travel Authority (TA) of the School Partnerships Focal Person/Work Immersion Teacher if work immersion tasks are conducted within the division</li>
+        <li>Report to the Division Office the activities in the Work Immersion Venue, including but not limited to the duration, provisions, and issues and concerns as applicable</li>
+        <li>Supervise the work of School Partnerships Focal Person, Immersion Teacher, and Learners
+</li>
+      </ul></p>
+
+<p><b><i>2. The School Partnerships Focal Person</b></i><p>She/He is authorized to seek partnerships between DepEd and Partner Institutions following the processes mentioned in the guidelines. She/He Shall:</p><ul>
+        <li>Manage the conduct of Work Immersion</li>
+        <li>Establish/pursue and maintain the Work Immersion partnership between the DepEd and Partner Institutions</li>
+        <li>Use evaluation and monitoring results to recommend decisions on partnerships</li>
+        <li>Coordinate with the Work Immersion Teachers regarding the placement of students in partner institutions</li>
+        <li>Conduct regular ocular inspections with the Work Immersion Teacher
+</li>
+      </ul></p>
+
+      <p><b><i>3. The Work Immersion Teacher</b></i><p>She/He is the school personnel/teacher assigned to supervise the learners at the Work Immersion Venue. S/He Shall:</p><ul>
+        <li>Exercise supervision on learners doing Work Immersion</li>
+        <li>Participate in the Joint Working Group of Work Immersion</li>
+        <li>Coordinate with the School PArtnerships Focal Person Learners’ activities and class and venue schedules</li>
+        <li>Conduct the Pre-Immersion and Post-Immersion activities</li>
+        <li>Submit report regularly to the Schools Partnership Focal Person on the completion and performance of learners, the performance of the Partner Institutions, and issues and concerns
+</li>
+      </ul></p>
+
+      <p><b><i>4. The Work Immersion Partner Institution Supervisor</b></i><p>She/He shall be identified in the MOA and shall serve as the counterpart of the Work Immersion Teacher. S/He shall:</p><ul>
+        <li>Exercise supervision over learners during the Work Immersion</li>
+        <li>Coordinate with the School Partnership Focal Person and Work Immersion Teacher on Work Immersion venue schedules and capacities
+</li>
+        <li>Provide input in the Pre-Immersion and Post-Immersion activities</li>
+        <li>Schedule the learners’ activities in the Work Immersion venue together with the Work Immersion Teacher</li>
+      </ul></p>
+
+      <p><b><i>5. The Learner</b></i><p>She/He shall:</p><ul>
+        <li>Attend pre and Post Immersion Activities</li>
+        <li>Report to the Work Immersion Partner Institution Supervisor during the actual immersion
+</li>
+        <li>Perform the duties and tasks as indicated in the prescribed template for the work immersion list of tasks/activities</li>
+        <li>Prepare the documentation and reports required in the curriculum and by the Partner Institution</li>
+      </ul></p>
+      </section>
+
+      <section class="main-section" id="Work_Ethics"><header>Work Ethics</header>
+      <p>-Ethics, or personal values, is a critical issue in today's workplace. Employers and employees need to follow high standards of conduct to prosper consistently.</p>
+      <p>-Ethics is putting principles into action. Consistency between what we value and what our actions say we value is a matter of integrity. In other words, you have to walk the talk.</p>
+      <p>-Ethics is also about self-restraint.</p>
+      
+      <p><b><i>The Six Pillars of Ethics are:</i></b>
+      <ul>
+        <li>Trustworthiness</li>
+        <li>Respect</li>
+        <li>Responsibility</li>
+        <li>Fairness</li>
+        <li>Caring</li>
+        <li>Citizenship</li>
+      </ul></p>
+
+    <p></p>
+      <code><b><i>Trustworthiness</i></b> -has four dimensions. The first is honesty. Honesty involves both what you say (or don't say) and how you act. Honesty in communications is telling the truth as best you know it and being truthful, genuine, and frank. Honesty in conduct means playing by the rules without stealing, cheating, or fraud.
+</code>
+
+  <p></p>
+      <code><b><i>Integrity</i></b> -refers to the quality of being honest, ethical, and maintaining strong moral principles in all professional interactions and decision-making processes. It is a fundamental value that underpins trust and respect among employees, management, customers, and other stakeholders within an organization. Workplace integrity involves consistency between what individuals say and what they do, even when faced with challenging situations or temptations to act otherwise.
+</code>
+
+<p></p>
+      <code><b><i>Reliability</i></b> -refers to the quality of being consistent, dependable, and trustworthy in performing tasks, meeting commitments, and delivering results. It is a critical attribute that employers value in their employees as it contributes to the smooth functioning of the organization and builds trust among team members, supervisors, and customers.
+</code>
+
+<p></p>
+      <code><b><i>Loyalty</i></b> -refers to an employee's commitment and dedication to their employer, team, and the organization's goals and values. It involves a sense of allegiance and support towards the company, even in challenging times. Employees who exhibit loyalty are dedicated, trustworthy, and go above and beyond their responsibilities to contribute to the success of the organization.
+</code>
+
+<p></p>
+      <code><b><i>Respect</i></b> - refers to treating all individuals with courtesy, consideration, and dignity, regardless of their position, background, or role within the organization. It involves recognizing the inherent worth and value of every person and fostering an inclusive and supportive work environment.
+</code>
+
+<p></p>
+      <code><b><i>Responsibility</i></b> -refers to the accountability and ownership that employees have for their actions, tasks, and duties within the organization. It involves fulfilling one's obligations, taking initiative, and being reliable in delivering work outcomes. Responsible employees are proactive, dependable, and committed to achieving both individual and organizational goals.
+</code>
+
+<p></p>
+      <code><b><i>Fairness</i></b> -refers to the just and impartial treatment of all employees and stakeholders within an organization. It involves ensuring that all individuals are treated equitably, without discrimination or favoritism, and that decisions and actions are based on objective criteria and consistent standards.
+</code>
+
+<p></p>
+      <code><b><i>Caring</i></b> -refers to a supportive and empathetic environment where employees show concern and compassion for one another's well-being. It involves fostering a culture that values the personal and emotional needs of individuals and promotes a sense of community and mutual support among colleagues.
+</code>
+
+<p></p>
+      <code><b><i>Citizenship</i></b> -refers to the active and responsible participation of employees in the organization's activities beyond their job roles and responsibilities. It involves demonstrating a sense of ownership and commitment to the overall success and well-being of the organization and its members.
+</code>
+      </section>
+
+      <section class="main-section" id="Occupational_Safety_Hazard_Standard_for_Public_Sector"><header>Occupational Safety Hazard Standard for Public Sector</header>
+      
+      <p>In work immersion programs, students are often placed in real workplaces to gain practical experience. To protect the students' safety and health, educational institutions and the host organizations should take the following measures:</p>
+
+      <p><b><i>1.Risk Assessment:</b></i> Conduct a thorough risk assessment of the workplace to identify potential hazards and assess the associated risks. This may include physical hazards, chemical hazards, ergonomic issues, and other occupational risks.</p>
+      <p><b><i>2.Safety Training:</b></i> Ensure that students receive appropriate safety training before starting their work immersion. Training should cover workplace safety protocols, emergency procedures, and the proper use of personal protective equipment (PPE).</p>
+
+      <p><b><i>3.Supervision:</b></i>  Provide adequate supervision for students during their work immersion to ensure they adhere to safety guidelines and respond appropriately to any hazards they may encounter.</p>
+
+      <p><b><i>4.Personal Protective Equipment (PPE): </b></i> Ensure that students have access to and use the necessary personal protective equipment, such as safety goggles, gloves, or helmets, when required for their assigned tasks.
+
+</p>
+      </section>
+
+      <section class="main-section" id="Team_Work"><header>Team Work</header>
+      <p> What is a team?</p>
+
+      <p><b><i>A team has:</i></b>
+      <ul>
+        <li>Has shared goals and reasons for working together</li>
+        <li>Has members that are interdependent</li>
+        <li>Has members that are committed to the success of the whole group and the idea of cooperation</li>
+        <li>Is accountable to its members and the larger community</li>
+      </ul></p>
+  
+      <p><b><i> Team Focus:</i></b>
+      <ul>
+        <li>All teams must balance between the small details and the big picture</li>
+        <li>The split between the details and the big pictured is referred to as the Task/Process Orientation</li>
+      </ul></p>
+
+      <p><b><i> Task Oriented:</i></b>
+      <ul>
+        <li>Attention to detail</li>
+        <li>Independent work</li>
+        <li>Focus on the now</li>
+        <li>Closure</li>
+      </ul></p>
+
+      <p><b><i>COMING TO CONSENSUS</i></b>
+      <ul>
+        <li>Teams must decide how much emphasis is placed on task and process</li>
+        <li>Team members must all be on the “same page” once these decisions are made</li>
+        <li>Team members must abide by these decisions and take responsibility for their actions</li>
+        <li>One way to do this…</li>
+      </ul></p>
+      <p><b>Working Agreements</b><p> A working agreement consists of ground rules (norms, expectations) that guide how a team will work together to achieve results/meet an objective/realize a goal</p></p>
+      </section>
+
+
+      <section class="main-section" id="Conflict_Management_Styles"><header>Conflict Management Styles</header></section>
+<p>Conflict management styles refer to the various approaches individuals use to address and handle conflicts or disagreements. There are several different conflict management styles, each characterized by its level of assertiveness and cooperativeness. Five common conflict management styles are as follows:<p>
+
+<p><b><i>1. Competing (or Forcing):</b></i><ul>
+        <li>This style is highly assertive and involves pursuing one's interests and goals at the expense of others.</li>
+        <li>Individuals using this style are less concerned about maintaining relationships and more focused on achieving their objectives.
+</li>
+        <li>It can be effective in situations requiring quick decision-making or when unpopular but necessary actions need to be taken.</li>
+      </ul></p>
+
+
+<p><b><i>2. Accommodating:</b></i><ul>
+        <li>Accommodating is the opposite of competing, as it involves prioritizing the interests and needs of others over one's own.</li>
+        <li>This style emphasizes maintaining harmony and preserving relationships.</li>
+        <li>It can be useful when the issue at hand is more important to the other party or when preserving goodwill is essential.</li>
+      </ul></p>
+
+      <p><b><i>3. Avoiding:</b></i><ul>
+        <li>The avoiding style involves sidestepping or evading conflicts altogether.</li>
+        <li>Individuals using this style may withdraw from the situation or refuse to address the issue at hand.</li>
+        <li>It can be appropriate when the conflict is minor, emotions are running high, or when further discussion would be unproductive.</li>
+      </ul></p>
+
+      <p><b><i>4. Compromising:</b></i><ul>
+        <li>The compromising style seeks to find middle ground where both parties give up something to reach a mutually acceptable solution.</li>
+        <li>It involves a moderate level of assertiveness and cooperativeness.</li>
+        <li>This style is suitable for situations where quick resolution is needed or when maintaining relationships is crucial.</li>
+      </ul></p>
+
+    <p><b><i>5. Collaborating:</b></i><ul>
+        <li>Collaborating is a highly assertive and cooperative conflict management style</li>
+        <li>It involves working together to find a win-win solution that satisfies the needs and interests of all parties involved.</li>
+        <li>This style is beneficial when the issue is complex, both parties' concerns are significant, and fostering a long-term relationship is essential.</li>
+      </ul></p>
+
+
+      <section class="main-section" id="Worker_Rights_and_Responsibilities"><header>Worker Rights and Responsibilities</header></section>
+<p>
+Workers' rights and responsibilities are fundamental principles that protect and empower employees in the workplace. These rights ensure fair treatment, safety, and dignity, while responsibilities encompass the obligations of employees to adhere to workplace rules and contribute positively to the organization. The specifics of workers' rights and responsibilities can vary depending on national laws and regulations, industry standards, and individual employment contracts. Below are some common examples:</p>
+
+<p>Workers' Rights:</p>
+<code>
+  <p>1. <b>Right to a Safe and Healthy Workplace: </b>Employees have the right to work in an environment that is free from hazards and dangers that may cause harm to their health or safety.</p>
+  <p>2. <b>Right to Fair Compensation:</b>Workers have the right to receive fair wages and benefits, including overtime pay, sick leave, and vacation time, as specified by labor laws or collective bargaining agreements.</p>
+  <p>3. <b>Right to Equal Treatment:</b> Employees should be treated fairly and without discrimination based on race, gender, age, religion, disability, or other protected characteristics.</p>
+  <p>4. <b>Right to Freedom of Association:</b> Workers have the right to join or form labor unions and engage in collective bargaining to negotiate better working conditions.</p>
+  <p>5. <b>Right to Rest and Leisure:</b>Employees are entitled to rest periods and reasonable working hours to ensure a proper work-life balance.</p>
+  <p>6. <b>Right to Privacy:</b> Workers have the right to privacy in their personal matters and communications, within the limits set by applicable laws.</p>
+  <p>7. <b>Right to Freedom from Harassment:</b> Employees should be protected from any form of harassment, including sexual harassment, bullying, or intimidation.</p>
+</code>
+
+<p>Workers' Responsibilities:</p>
+<code>
+  <p>1. <b>Adherence to Company Policies:</b>Employees are responsible for understanding and following the organization's policies, rules, and procedures.</p>
+  <p>2. <b>Quality Performance: :</b>Workers are responsible for carrying out their job duties to the best of their abilities and meeting established performance standards.</p>
+  <p>3. <b>Respect for Colleagues:</b> Employees should treat their coworkers, supervisors, and clients with respect, courtesy, and professionalism.</p>
+  <p>4. <b>Safety Compliance:</b> Workers have a responsibility to adhere to safety guidelines, use personal protective equipment when required, and report any hazards or accidents.</p>
+  <p>5. <b>Ethical Conduct: </b>Employees are expected to maintain high ethical standards, avoid conflicts of interest, and act in the best interest of the organization.</p>
+  <p>6. <b>Confidentiality: </b> Workers have a responsibility to protect sensitive company information and maintain the confidentiality of customer and employee data.</p>
+  <p>7. <b>Reporting Misconduct: </b>  Employees should report any unethical or illegal behavior they witness within the workplace.</p>
+</code>
+
+      <section class="main-section" id="Reference">
+        <header>Reference</header>
+        <article>
+          <ul>
+            <li>
+              All information is taken from
+              <a
+                href="https://docs.google.com/document/d/1PhTq6Pb2vZk1BzWHOErY5L7sPRCFUMgJZNwtMwCIvTw/mobilebasic?fbclid=IwAR1_SK12jsvHLU2QwrDlxgmSyBxsjuVia_DLPGYqu4WJL7k9FkFEKCgiDas"
+                target="_blank"
+                >Work Immersion Package</a>
+            </li>
+          </ul>
+        </article>
+      </section>
+    </main>
+  </body>
+</html>
