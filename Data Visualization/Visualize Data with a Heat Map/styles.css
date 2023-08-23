@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  background-color: #e6f3ff; /* Pastel blue background color */
+}
+
+#heatmap {
+  margin: 20px auto;
+}
+
+#tooltip {
+  position: absolute;
+  background-color: #fff;
+  padding: 5px;
+  border: 1px solid #ccc;
+  pointer-events: none;
+  display: none;
+}
