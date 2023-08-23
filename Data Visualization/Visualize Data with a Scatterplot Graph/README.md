@@ -1,6 +1,5 @@
 # FreeCodeCamp Data Visualization Project: Scatter Plot
 
-![Scatter Plot Screenshot](scatter_plot_screenshot.png)
 
 ## About the Project
 
