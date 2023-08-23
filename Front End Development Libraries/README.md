@@ -59,3 +59,10 @@ Here are some official documentation links to help me on my way:
 - [Sass Documentation](https://sass-lang.com/documentation)
 - [jQuery Documentation](https://api.jquery.com/)
 
+## My Certificate
+
+![image](https://github.com/OrangeJuice023/freeCodeCampJourney/assets/87125976/f7d37ff7-86be-492f-bd7b-3a0b2e345a51)
+
+Happy coding! 💻🚀
+
+\[OrangeJuice023\]
