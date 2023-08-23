@@ -30,6 +30,12 @@ The icing on the cake! I put everything I learned into practice by building real
 
 By completing this curriculum, I gained a solid understanding of responsive web design concepts. I can now create websites that don't just look good, but also provide a smooth experience no matter the device.
 
+## My Certificate
+
+![image](https://github.com/OrangeJuice023/freeCodeCampJourney/assets/87125976/7cf8a56f-de9a-499d-95e3-c9253e108891)
+
+
+
 ## Final Thoughts
 
 If you're excited about creating websites and want to ensure they're accessible to everyone, this curriculum is a must-try.
