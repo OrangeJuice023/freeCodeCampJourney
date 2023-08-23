@@ -1,4 +1,4 @@
-# Polyhon Area Calculator
+# Polygon Area Calculator
 
 ## Rectangle Class
 
