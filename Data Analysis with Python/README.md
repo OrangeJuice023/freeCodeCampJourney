@@ -21,6 +21,12 @@ Throughout the curriculum, I tackled real-world projects that put my newfound sk
 4. **Page View Time Series Visualizer:** I utilized time series analysis to visualize website traffic trends.
 5. **Sea Level Predictor:** Using linear regression, I predicted future sea levels based on historical data.
 
+
+## My Certificate
+
+![image](https://github.com/OrangeJuice023/freeCodeCampJourney/assets/87125976/8a9f9dcd-7b85-4536-8043-86192fa214f0)
+
+
 Happy coding! 💻🚀
 
 \[OrangeJuice023\]
