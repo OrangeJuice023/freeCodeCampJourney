@@ -34,4 +34,10 @@ The Scientific Computing with Python projects are a series of coding challenges 
 
 5. Submit your completed project on freeCodeCamp for evaluation and feedback.
 
+
+## My Certificate
+
+![image](https://github.com/OrangeJuice023/freeCodeCampJourney/assets/87125976/374d4b64-8fa1-4a0a-812d-206f8ed9962f)
+
+
 Happy coding! 💻🚀
