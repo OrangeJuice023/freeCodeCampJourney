@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bar Chart</title>
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    /* Import Maragsa font from your server or a font service */
+    @font-face {
+      font-family: "Maragsa";
+      src: url('path/to/maragsa-regular.ttf') format('truetype'); /* Replace 'path/to/maragsa-regular.ttf' with the correct path to the font file. */
+    }
+  </style>
+</head>
+<body>
+  <h1 id="title">United States GDP</h1>
+  <svg id="chart" width="900" height="500"></svg>
+  <div id="tooltip" class="hidden"></div>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
