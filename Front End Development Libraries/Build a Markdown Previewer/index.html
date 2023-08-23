@@ -1,0 +1,30 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Markdown Previewer</title>
+  <link href="https://fonts.googleapis.com/css2?family=Maragsa&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container my-5">
+    <div class="logo-container">
+      <img src="https://i.ibb.co/59pWnQf/5493724-removebg-preview-1.png" alt="Logo Placeholder" class="logo">
+      <h1 class="markdown-previewer-heading">Markdown Previewer</h1>
+    </div>
+    <div class="editorWrap">
+      <div class="toolbar">
+        Editor
+      </div>
+      <textarea id="editor" class="form-control" rows="10"></textarea>
+    </div>
+    <div class="previewWrap">
+      <div class="toolbar">
+        Preview
+      </div>
+      <div id="preview" class="preview-container"></div>
+    </div>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/3.0.3/marked.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
