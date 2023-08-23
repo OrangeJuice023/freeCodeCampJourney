@@ -1,4 +1,4 @@
-# Shape Classes: Rectangle and Square
+# Polyhon Area Calculator
 
 ## Rectangle Class
 
