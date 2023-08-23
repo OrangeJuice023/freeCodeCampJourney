@@ -1,0 +1,43 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>25 + 5 Clock</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <div class="main-title">25 + 5 Clock</div>
+    <div class="length-control">
+      <div class="btn-level">
+        <div id="break-label">Break Length</div>
+        <div class="controls">
+          <button id="break-decrement">-</button>
+          <div id="break-length">5</div>
+          <button id="break-increment">+</button>
+        </div>
+      </div>
+      <div class="btn-level">
+        <div id="session-label">Session Length</div>
+        <div class="controls">
+          <button id="session-decrement">-</button>
+          <div id="session-length">25</div>
+          <button id="session-increment">+</button>
+        </div>
+      </div>
+    </div>
+    <div class="timer">
+      <div id="timer-label">Session</div>
+      <div class="timer-wrapper">
+        <div id="time-left">25:00</div>
+      </div>
+    </div>
+    <div class="timer-control">
+      <button id="start_stop">Start</button>
+      <button id="reset">Reset</button>
+    </div>
+    <audio id="beep" src="https://raw.githubusercontent.com/freeCodeCamp/cdn/master/build/testable-projects-fcc/audio/BeepSound.wav"></audio>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
