@@ -26,7 +26,7 @@ Completing this curriculum gave me practical machine learning skills, in high de
 
 ## My Certificate
 
-![Uploading image.png…]()
+![image](https://github.com/OrangeJuice023/freeCodeCampJourney/assets/87125976/c3f66b5b-6556-426e-9e38-9e9d140efc34)
 
 
 Happy coding! 💻🚀
