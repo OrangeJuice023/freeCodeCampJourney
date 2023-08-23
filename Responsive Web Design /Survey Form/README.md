@@ -1,24 +1,28 @@
-# Responsive Survey Form
+# University of The Philippines Diliman Student Profile Survey Form
 
-📋 My Responsive Survey Form Project for FreeCodeCamp's Certification
+📋 A Responsive Survey Form for University of The Philippines Diliman Student Profiles
 
-Hey there! This is my take on the Responsive Survey Form project from FreeCodeCamp's Responsive Web Design curriculum.
+Hey there! This is my responsive survey form project based on the University of The Philippines Diliman Student Profile. The purpose of this form is to collect information for a student's college journey at UP Diliman.
 
-## What's Inside
+## Form Description
 
-This project showcases a user-friendly survey form that adapts beautifully to various screen sizes. I've implemented HTML and CSS techniques I learned to create a polished and responsive design.
+This HTML document represents a survey form that captures essential student information before entering college at UP Diliman. It covers details such as name, email, age, current role, recommendation, favorite aspect of the university, areas of improvement, and optional comments or suggestions.
 
-## Project Features
+The form utilizes various input types including text fields, email inputs, number inputs, dropdown menus, radio buttons, checkboxes, and text areas to collect data. It is designed to adapt smoothly to different screen sizes and devices.
 
-- Clean and appealing design
-- Responsive layout for different devices
-- Input fields, radio buttons, and checkboxes for user interaction
+## Usage
+
+1. Open the HTML file in a web browser.
+2. Fill out the form fields with your information.
+3. Click the "Submit" button to send your responses.
 
 ## Technologies Used
 
 - HTML
-- CSS (including media queries)
+- CSS (linked externally in `styles.css`)
 
-- Happy coding! 💻🚀
+Feel free to explore the code and see how the form is structured and styled to create a user-friendly and responsive experience.
 
-\[OrangeJuice023]
+Happy coding! 💻🚀
+
+\[Gervi\]
