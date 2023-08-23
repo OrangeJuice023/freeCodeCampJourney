@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Link to the external CSS file for styling -->
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <!-- Container to hold the entire survey form -->
+    <div class="container">
+      <!-- Header section with the survey form title and description -->
+      <header class="header">
+        <h1 id="title" class="text-center">University of The Philippines Student Profile</h1>
+        <p id="description" class="description text-center">
+          This information will be used for your college journey.
+        </p>
+      </header>
+
+      <!-- The actual survey form with a unique ID "survey-form" -->
+      <form id="survey-form">
+        <!-- Form group for the "Name" input field -->
+        <div class="form-group">
+          <label id="name-label" for="name">Name</label>
+          <input
+            type="text"
+            name="name"
+            id="name"
+            class="form-control"
+            placeholder="Enter your name"
+            required
+          />
+        </div>
+
+        <!-- Form group for the "Email" input field -->
+        <div class="form-group">
+          <label id="email-label" for="email">Email</label>
+          <input
+            type="email"
+            name="email"
+            id="email"
+            class="form-control"
+            placeholder="Enter your Email"
+            required
+          />
+        </div>
+
+        <!-- Form group for the "Age" input field -->
+        <div class="form-group">
+          <label id="number-label" for="number"
+            >Age<span class="clue">(optional)</span></label
+          >
+          <input
+            type="number"
+            name="age"
+            id="number"
+            min="10"
+            max="99"
+            class="form-control"
+            placeholder="Age"
+          />
+        </div>
+
+        <!-- Form group for the "Current Role" dropdown -->
+        <div class="form-group">
+          <p>What is your current status before entering college.</p>
+          <select id="dropdown" name="role" class="form-control" required>
+            <!-- Placeholder option for the dropdown -->
+            <option disabled selected value>Select</option>
+            <!-- Various options to choose from -->
+            <option value="student">Student</option>
+            <option value="job">Working Student</option>
+            <option value="learner">Full Time Learner</option>
+            <option value="preferNo">Prefer not to say</option>
+            <option value="other">Other</option>
+          </select>
+        </div>
+
+        <!-- Form group for the "Recommendation" radio buttons -->
+        <div class="form-group">
+          <p>Would you recommend U.P to a friend?</p>
+          <label>
+            <input
+              name="user-recommend"
+              value="definitely"
+              type="radio"
+              class="input-radio"
+              checked
+            />Definitely</label
+          >
+          <label>
+            <input
+              name="user-recommend"
+              value="maybe"
+              type="radio"
+              class="input-radio"
+            />Maybe</label
+          >
+          <label
+            ><input
+              name="user-recommend"
+              value="not-sure"
+              type="radio"
+              class="input-radio"
+            />Not sure</label
+          >
+        </div>
+
+        <!-- Form group for the "Favorite Feature" dropdown -->
+        <div class="form-group">
+          <p>What is your favorite thing about U.P?</p>
+          <select id="most-like" name="mostLike" class="form-control" required>
+            <!-- Placeholder option for the dropdown -->
+            <option disabled selected value>Select an option</option>
+            <!-- Various options to choose from -->
+            <option value="challenges">Quality of Education</option>
+            <option value="projects">Environment</option>
+            <option value="community">Community</option>
+            <option value="openSource">Culture</option>
+          </select>
+        </div>
+
+        <!-- Form group for the "Improvement Suggestions" checkboxes -->
+        <div class="form-group">
+          <p>
+            What would you like to see improved?
+            <span class="clue">(Check all that apply)</span>
+          </p>
+          <!-- Various checkboxes to choose from -->
+          <label>
+            <input
+              name="prefer"
+              value="front-end-projects"
+              type="checkbox"
+              class="input-checkbox"
+            />Facilities
+          </label>
+          <label>
+            <input
+              name="prefer"
+              value="back-end-projects"
+              type="checkbox"
+              class="input-checkbox"
+            />Integration Systems
+          </label>
+          <!-- Add more checkboxes as needed -->
+          <label>
+            <input
+              name="prefer"
+              value="data-visualization"
+              type="checkbox"
+              class="input-checkbox"
+            />Courses
+          </label>
+        </div>
+
+
+
+        <!-- Form group for the "Comments or Suggestions" textarea -->
+        <div class="form-group">
+          <p>Any comments or suggestions?</p>
+          <textarea
+            id="comments"
+            class="input-textarea"
+            name="comment"
+            placeholder="Enter your comment here..."
+          ></textarea>
+        </div>
+
+        <!-- Form group for the "Submit" button -->
+        <div class="form-group">
+          <button type="submit" id="submit" class="submit-button">
+            Submit
+          </button>
+        </div>
+      </form>
+    </div>
+  </body>
+</html>
