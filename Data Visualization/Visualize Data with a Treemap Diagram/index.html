@@ -1,0 +1,38 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tree Map App</title>
+  <!-- Include the CSS styles -->
+  <link rel="stylesheet" href="styles.css">
+  <!-- Include the Bebas Neue font from Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- Title and Description -->
+  <h1 id="title"></h1>
+  <p id="description"></p>
+
+  <!-- Buttons to Switch Datasets -->
+  <div id="data-selector">
+    <button onclick="changeDataset('videogames')">Video Games</button>
+    <button onclick="changeDataset('movies')">Movies</button>
+    <button onclick="changeDataset('kickstarter')">Kickstarter</button>
+  </div>
+
+  <!-- SVG Container for Tree Map -->
+  <svg id="tree-map" width="800" height="600"></svg>
+
+  <!-- Legend Container -->
+  <svg id="legend" width="600" height="100"></svg>
+
+  <!-- Tooltip Container -->
+  <div class="tooltip" id="tooltip"></div>
+
+  <!-- Include the D3.js library -->
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+
+  <!-- Include the JavaScript code -->
+  <script src="app.js"></script>
+</body>
+</html>
