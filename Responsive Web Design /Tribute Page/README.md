@@ -1,4 +1,4 @@
-# Oliver Napoleon Hill Tribute Page
+# Oliver Napoleon Hill Tribute Page (will improve the code in the future if there is time)
 
 📜 A Tribute Page for Oliver Napoleon Hill
 
