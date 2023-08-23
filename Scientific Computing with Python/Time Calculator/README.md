@@ -27,3 +27,6 @@ Working on the "Add Time Calculator" project provided me with:
 - **Time Manipulation:** I enhanced my ability to manipulate time data and calculate time intervals.
 - **Conditional Logic:** I practiced using conditional statements to handle AM/PM flips and day adjustments.
 - **Function Design:** I gained experience in designing a Python function that performs calculations and produces meaningful outputs.
+
+
+Happy coding! 💻🚀
