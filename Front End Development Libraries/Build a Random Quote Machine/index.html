@@ -1,0 +1,44 @@
+<!-- index.html -->
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Random Quote Machine</title>
+  <!-- Link your custom styles -->
+  <link rel="stylesheet" href="styles.css">
+  <!-- Add Font Awesome CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <!-- Add the custom font -->
+  <style>
+    @font-face {
+      font-family: 'Maragsa';
+      src: url('path/to/your/Maragsa-Regular.ttf') format('truetype');
+      /* Replace 'path/to/your/Maragsa-Regular.ttf' with the actual path to your font file. */
+    }
+  </style>
+</head>
+<body>
+  <div id="quote-box">
+    <div id="text">
+      <p><i class="fas fa-quote-left"></i> - Loading...</p>
+    </div>
+    <div id="author">
+      <p></p>
+    </div>
+    <div id="buttons">
+      <a id="twitter-button" target="_blank" rel="noopener noreferrer" href="#">
+        <i class="fab fa-twitter"></i>
+      </a>
+      <a id="tumblr-button" target="_blank" rel="noopener noreferrer" href="#">
+        <i class="fab fa-tumblr"></i>
+      </a>
+      <button id="new-quote">New Quote</button>
+    </div>
+  </div>
+  <!-- Link your custom JavaScript -->
+  <script src="script.js"></script>
+  <!-- Add jQuery -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</body>
+</html>
